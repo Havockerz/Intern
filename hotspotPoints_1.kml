@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Placemark>
+            <name>Route - East Coast Express Way (LPT) – Karak – Gombak = 40 kmph</name>
+            <description>From : After Karak Tunnel /  To : After Karak Tunnel</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - East Coast Express Way (LPT) – Karak – Gombak = 40 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : After Karak Tunnel /  To : After Karak Tunnel</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#7e7e7e</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>101.77875995635986,3.3493714310734397</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - East Coast Express Way (LPT) – Karak – Gombak = 40 kmph</name>
+            <description>From : After Karak Tunnel /  To : After Karak Tunnel</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - East Coast Express Way (LPT) – Karak – Gombak = 40 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : After Karak Tunnel /  To : After Karak Tunnel</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#7e7e7e</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>101.76180839538574,3.3370114251526917</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - East Coast Express Way (LPT) – Karak – Gombak = 60 kmph</name>
+            <description>From : Bukit Tinggi /  To : Bukit Tinggi</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - East Coast Express Way (LPT) – Karak – Gombak = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Bukit Tinggi /  To : Bukit Tinggi</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#8095ff</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>101.8267822265625,3.354319673963887</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - East Coast Express Way (LPT) – Karak – Gombak = 60 kmph</name>
+            <description>From : Bukit Tinggi /  To : Bukit Tinggi</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - East Coast Express Way (LPT) – Karak – Gombak = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Bukit Tinggi /  To : Bukit Tinggi</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#8095ff</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>101.835880279541,3.3592893126092975</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</name>
+            <description>From : Petron Buloh Kasap /  To: After Bandar Putra Junction</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Petron Buloh Kasap /  To: After Bandar Putra Junction</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#7e007e</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>102.79804229736327,2.5634220283443403</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</name>
+            <description>From : Petron Buloh Kasap /  To: After Bandar Putra Junction</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Petron Buloh Kasap /  To: After Bandar Putra Junction</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#7e007e</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>102.8543472290039,2.4883074008167023</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</name>
+            <description>From : Petronas Service Station /  To : Sg. Gatom Bridge</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Petronas Service Station /  To : Sg. Gatom Bridge</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#7e7e00</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.01605224609374,2.4063281107097394</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</name>
+            <description>From : Petronas Service Station /  To : Sg. Gatom Bridge</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Petronas Service Station /  To : Sg. Gatom Bridge</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#7e7e00</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.02450656890869,2.378929113035813</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</name>
+            <description>From : Traffic Light to Paloh / To : Plaza Tol Yong Peng (U)</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Traffic Light to Paloh / To : Plaza Tol Yong Peng (U)</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#007e7e</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.05510520935059,2.0315299150533077</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</name>
+            <description>From : Traffic Light to Paloh / To : Plaza Tol Yong Peng (U)</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - Lebuh Raya Tun Abdul Razak to Pasir Gudang Johor = 50 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Traffic Light to Paloh / To : Plaza Tol Yong Peng (U)</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#007e7e</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.04643630981445,2.0011646646191763</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 60 kmph</name>
+            <description>From : Gebeng Traffic Light /  To : Kuantan Port</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Gebeng Traffic Light /  To : Kuantan Port</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#7e7e7e</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.37379455566406,3.9635859920790213</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 50 kmph</name>
+            <description>From : Before Cherating sharp corner /  To : After Cherating sharp corner</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 50 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Before Cherating sharp corner /  To : After Cherating sharp corner</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#dbb700</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.40108871459961,4.131908147021405</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 50 kmph</name>
+            <description>From : Before Cherating sharp corner /  To : After Cherating sharp corner</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 50 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Before Cherating sharp corner /  To : After Cherating sharp corner</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#ff8080</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.4249496459961,4.181045380238879</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 50 kmph</name>
+            <description>From : End of Bukit Kuang bridge / To : Jakar traffic light</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 50 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : End of Bukit Kuang bridge / To : Jakar traffic light</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#04ff00</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.42992782592773,4.252605586560564</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 60 kmph</name>
+            <description>From : After PCLDPE (Petlin) Traffic Light /  To : 300 meter after Sekolah Menengah Paka, Jalan Santong</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : After PCLDPE (Petlin) Traffic Light /  To : 300 meter after Sekolah Menengah Paka, Jalan Santong</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#39008a</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.45069885253906,4.586349483928288</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 60 kmph</name>
+            <description>From : After PCLDPE (Petlin) Traffic Light /  To : 300 meter after Sekolah Menengah Paka, Jalan Santong</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : After PCLDPE (Petlin) Traffic Light /  To : 300 meter after Sekolah Menengah Paka, Jalan Santong</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#39008a</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.42906951904297,4.623993065381306</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 60 kmph</name>
+            <description>From : After PCLDPE (Petlin) Traffic Light /  To : 300 meter after Sekolah Menengah Paka, Jalan Santong</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : After PCLDPE (Petlin) Traffic Light /  To : 300 meter after Sekolah Menengah Paka, Jalan Santong</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#390080</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.43833923339844,4.62878392350806</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - Jeli, Kelantan – Kupang, Perak = 60 kmph</name>
+            <description>From : Medan Selera Batu Melintang / To : Hentian Sungai Lebey</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - Jeli, Kelantan – Kupang, Perak = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Medan Selera Batu Melintang / To : Hentian Sungai Lebey</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#b30071</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>101.7357587814331,5.697981985463135</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - Jeli, Kelantan – Kupang, Perak = 60 kmph</name>
+            <description>From : Medan Selera Batu Melintang / To : Hentian Sungai Lebey</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - Jeli, Kelantan – Kupang, Perak = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Medan Selera Batu Melintang / To : Hentian Sungai Lebey</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#b30071</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>101.22975468635559,5.470991026075412</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route -  Jeli, Kelantan – Kupang, Perak = 60 kmph</name>
+            <description>From : 11.4 After Grik Intersection /  To : Kg Tiak, Kupang Perak</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route -  Jeli, Kelantan – Kupang, Perak = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : 11.4 After Grik Intersection /  To : Kg Tiak, Kupang Perak</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#ad0000</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>100.87989807128905,5.582159029004187</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route -  Jeli, Kelantan – Kupang, Perak = 60 kmph</name>
+            <description>From : 11.4 After Grik Intersection /  To : Kg Tiak, Kupang Perak</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route -  Jeli, Kelantan – Kupang, Perak = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : 11.4 After Grik Intersection /  To : Kg Tiak, Kupang Perak</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#ad0000</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>101.05430603027344,5.487502019076684</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - East Coast Express Way (LPT) – Karak – Gombak = 60 kmph</name>
+            <description>From : 600 m after Petronas Sg Dua /  To : 600 m after Petronas Sg Dua</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - East Coast Express Way (LPT) – Karak – Gombak = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : 600 m after Petronas Sg Dua /  To : 600 m after Petronas Sg Dua</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#fda3ff</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>101.97730779647827,3.4722988468887537</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - East Coast Express Way (LPT) – Karak – Gombak = 60 kmph</name>
+            <description>From : 600 m after Petronas Sg Dua /  To : 600 m after Petronas Sg Dua</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - East Coast Express Way (LPT) – Karak – Gombak = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : 600 m after Petronas Sg Dua /  To : 600 m after Petronas Sg Dua</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#fda3ff</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>101.9817066192627,3.464416886953378</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 50 kmph</name>
+            <description>From : End of Bukit Kuang bridge / To : Jakar traffic light</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 50 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : End of Bukit Kuang bridge / To : Jakar traffic light</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#00ff11</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.42220306396483,4.2197366451744145</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 60 kmph</name>
+            <description>From : Labohan food stall /  To : Labohan food stall</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Labohan food stall /  To : Labohan food stall</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#0088ff</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.45464706420898,4.537580987629805</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 60 kmph</name>
+            <description>From : Labohan food stall /  To : Labohan food stall</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Labohan food stall /  To : Labohan food stall</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#0088ff</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.45846652984619,4.543698620793412</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 60 kmph</name>
+            <description>From : Sekolah Kebangsaan Seri Gelugor, Kerteh /  To : Bandar Baru Kerteh Traffic Light</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Sekolah Kebangsaan Seri Gelugor, Kerteh /  To : Bandar Baru Kerteh Traffic Light</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#ffd500</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.44597816467285,4.519783942103622</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 60 kmph</name>
+            <description>From : Sekolah Kebangsaan Seri Gelugor, Kerteh /  To : Bandar Baru Kerteh Traffic Light</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Sekolah Kebangsaan Seri Gelugor, Kerteh /  To : Bandar Baru Kerteh Traffic Light</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#ffea00</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.44271659851074,4.507291524022413</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 60 kmph</name>
+            <description>From : Before Sungai Ular sharp corner /  To : After Sungai Ular sharp corner</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via Federal Road / Chukai Town and Cherating) = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Before Sungai Ular sharp corner /  To : After Sungai Ular sharp corner</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#a163d4</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.39375019073486,4.050341341299677</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 60 kmph</name>
+            <description>From : Gebeng Traffic Light /  To : Kuantan Port</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 60 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Gebeng Traffic Light /  To : Kuantan Port</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#7e7e7e</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.42001438140869,3.966240375127952</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 30 kmph</name>
+            <description>From : Before Aspa Cottage/Jabor Roundabout /  To : After Aspa Cottage/Jabor Roundabout</description>
+            <ExtendedData>
+                <Data name="name">
+                    <value>Route - PCLDPE (PETLIN) Traffic Light To Kuantan Port (via LPT) = 30 kmph</value>
+                </Data>
+                <Data name="description">
+                    <value>From : Before Aspa Cottage/Jabor Roundabout /  To : After Aspa Cottage/Jabor Roundabout</value>
+                </Data>
+                <Data name="marker-color">
+                    <value>#3dfff2</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>103.33833575248718,3.950174805628709</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>klcc_test_point</name>
+            <description>for test only</description>
+            <ExtendedData>
+                <Data name="marker-color">
+                    <value>#7e7e7e</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+                <Data name="name">
+                    <value>klcc_test_point</value>
+                </Data>
+                <Data name="description">
+                    <value>for test only</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>101.71214997768402,3.1581919475046605</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>klcc_test_1</name>
+            <description>for test purposes only</description>
+            <ExtendedData>
+                <Data name="marker-color">
+                    <value>#7e7e7e</value>
+                </Data>
+                <Data name="marker-size">
+                    <value>medium</value>
+                </Data>
+                <Data name="marker-symbol">
+                    <value></value>
+                </Data>
+                <Data name="name">
+                    <value>klcc_test_1</value>
+                </Data>
+                <Data name="description">
+                    <value>for test purposes only</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>101.71206951141357,3.1581008908984933</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
